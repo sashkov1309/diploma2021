@@ -1,0 +1,4 @@
+/**:
+  ros__parameters:
+    perception_enable: true
+    trigger_distabce: 12.0
